@@ -23,6 +23,7 @@ class App extends Component {
 
         <input type="text" onChange={this.handleChange} />
         <p>{ this.state.text.length } characters</p>
+        <ValidationComponent />
       </div>
     );
   }

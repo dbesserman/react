@@ -1,8 +1,9 @@
 import React, { Component } from 'react';
 
-class ValidationComponent extends Component {
+class Test extends Component {
   render() {
-    return (<div></div>);
+    return <p>Toto</p>
   }
 }
-export default ValidationComponent;
+
+export default Test

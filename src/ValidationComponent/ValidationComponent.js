@@ -1,8 +1,8 @@
-import React, { Component } from 'component';
+import React, { Component } from 'react';
 
 class ValidationComponent extends Component {
   render() {
-    return <div></div>
+    return <div>toto</div>
   }
 }
 export default ValidationComponent;
